@@ -1,16 +1,21 @@
-numpy 
+streamlit
+numpy
 pandas
 
 # FACE RECOGNITION
 scikit-learn
 dlib-bin
 git+https://github.com/ageitgey/face_recognition_models
+
 setuptools
 
 supabase
 bcrypt
 
-segon
+segno
 pillow
 
-streamlit
+
+
+librosa
+resemblyzer

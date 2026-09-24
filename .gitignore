@@ -1,0 +1,11 @@
+.venv/
+.venv-1/
+evnv/
+evnv311/
+
+.streamlit/
+
+__pycache__/
+*.pyc
+
+.vscode/
